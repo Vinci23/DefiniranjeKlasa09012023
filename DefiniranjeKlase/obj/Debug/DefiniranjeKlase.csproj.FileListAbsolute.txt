@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\DefiniranjeKlase\bin\Debug\DefiniranjeKlase.exe.config
+C:\Users\ucenik\source\repos\DefiniranjeKlase\bin\Debug\DefiniranjeKlase.exe
+C:\Users\ucenik\source\repos\DefiniranjeKlase\bin\Debug\DefiniranjeKlase.pdb
+C:\Users\ucenik\source\repos\DefiniranjeKlase\obj\Debug\DefiniranjeKlase.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\DefiniranjeKlase\obj\Debug\DefiniranjeKlase.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\DefiniranjeKlase\obj\Debug\DefiniranjeKlase.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\DefiniranjeKlase\obj\Debug\DefiniranjeKlase.exe
+C:\Users\ucenik\source\repos\DefiniranjeKlase\obj\Debug\DefiniranjeKlase.pdb
